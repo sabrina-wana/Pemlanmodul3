@@ -69,9 +69,3 @@ m : 1
 dm : 0.1
 cm : 0.01
 mm : 0.001
-
-📦 Struktur Proyek
-.
-├── Main.java
-└── README.md
-
