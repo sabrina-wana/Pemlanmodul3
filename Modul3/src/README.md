@@ -27,11 +27,13 @@ javac Main.java
 java Main
 
 📌 Cara Pakai (Alur CLI)
+
 Pilih 1 untuk konversi atau 2 untuk melihat tabel faktor.
 Masukkan nilai, satuan asal (km/hm/dam/m/dm/cm/mm), dan satuan tujuan.
 Hasil akan ditampilkan dengan enam angka di belakang koma (format US locale).
 
 🧪 Contoh Output
+
 ==== Metric Unit Converter (km hm dam m dm cm mm) ====
 
 
@@ -48,6 +50,7 @@ Ke satuan (km/hm/dam/m/dm/cm/mm): m
 1.750000 km = 1750.000000 m
 
 Contoh lain:
+
 Pilih menu [1-3]: 1
 Masukkan nilai: 1200
 Dari satuan (km/hm/dam/m/dm/cm/mm): cm
@@ -57,6 +60,7 @@ Ke satuan (km/hm/dam/m/dm/cm/mm): m
 1200.000000 cm = 12.000000 m
 
 Tabel faktor (menu 2):
+
 Faktor konversi ke meter (×):
 km : 1000
 hm : 100
@@ -70,3 +74,4 @@ mm : 0.001
 .
 ├── Main.java
 └── README.md
+
